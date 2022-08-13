@@ -10,11 +10,11 @@
     },
     {
       "id": 2,
-      "name": "Veggie",
-      "description": "Macarrão com pimentão, ervilha e ervas finas colhidas no himalaia.",
-      "price": "21.90",
+      "name": "Bal",
+      "description": "Bla",
+      "price": "22",
       "available": true,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png"
+      "image": "https://storage.googleapis.com/golden-wind/asd-gostack/desafio-food/food2.png"
     },
     {
       "id": 3,
@@ -23,6 +23,22 @@
       "price": "25.90",
       "available": false,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "asdasd",
+      "name": "Moda",
+      "price": "19.90",
+      "description": "asdasd",
+      "available": true,
+      "id": 4
+    },
+    {
+      "image": "htppsasdasd",
+      "name": "Rapahel",
+      "price": "19.01",
+      "description": "askdnasd",
+      "available": true,
+      "id": 5
     }
   ]
 }
